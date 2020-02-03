@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiveesiese.josephcopelandlaw.com/sitemap.xml
